@@ -1,4 +1,4 @@
-### Hello there, i'm Lucas, how is it going?!
+### Hello there!  i'm Lucas, how is it going?!
 
 📚 Currently studying Java, HTML and MySQL on Alura.
 
