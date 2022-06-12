@@ -1,6 +1,6 @@
 ### Hello there!  i'm Lucas, how is it going?!
 
-📚 Currently studying Java, HTML and MySQL on Alura.
+📚 Currently studying REACT on Alura.
 
 🌎 Learning French by myself, self improvement is always good, right?
 
