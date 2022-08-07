@@ -20,6 +20,7 @@
    <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="right" alt="pic" height="70" style="border-radius:20px;" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+   <img align="right" alt="React" height=30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 </div>
   
   ##
