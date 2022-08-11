@@ -1,6 +1,6 @@
 ### Hello there!  i'm Lucas, how is it going?!
 
-📚 Currently studying REACT on Alura.
+📚 Currently studying REACT.
 
 🌎 Learning French by myself, self improvement is always good, right?
 
