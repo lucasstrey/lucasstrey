@@ -2,9 +2,9 @@
 
 📚 Currently studying REACT.
 
-🌎 Learning French by myself, self improvement is always good, right?
+🌎 Global Customer Account specialist at ExxonMobil looking for labour transition.
 
-🧑‍💻 Looking foward to joining the labour market
+🧑‍💻 Keep focused, keep learning!
 
 
 
